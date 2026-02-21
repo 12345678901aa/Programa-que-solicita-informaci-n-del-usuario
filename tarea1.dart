@@ -18,5 +18,5 @@ void main () {
 
   print ("Escriba el año en que nacio");
   String? anonacimiento = stdin.readLineSync();
-
+  print ("Su nombre completo es: $nombre $segundoNombre $apellido $segundoApellido, su edad es: $edad años, y nació en el año: $anonacimiento");
 }
