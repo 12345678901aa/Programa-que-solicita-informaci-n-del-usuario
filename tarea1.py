@@ -1,0 +1,7 @@
+A = input ("Escriba su primer nombre: ")
+B = input ("Escriba su segundo nombre: ")
+C = input ("Escriba su primer apellido: ")
+D = input ("Escriba su segundo apellido: ")
+F = input ("Escriba su edad: ")
+año_de_nacimiento = input ("Escriba su año de nacimiento: ")
+print(f"Su nombre completo es: {A} {B} {C} {D}, su edad es: {F} años, y nació en el año: {año_de_nacimiento}")
